@@ -127,10 +127,15 @@ class ConnectionCell(Cell):
     |^|: Up Ver. connection, w=longest_city + 4, h=2
     |v|: Down Ver. connection, w=longest_city + 4, h=2
     |__: Left-Down Corner, w=longest_city + 4, h=5
+    |x_: Shorter Left-Down Corner, w=3, h=5
     __|: Right-Down Corner, w=longest_city + 4, h=5
     |--: Left-Up Corner, w=longest_city + 4, h=5
     --|: Right-Up Corner, w=longest_city + 4, h=5
+    ^^|: Shortest Right-Up Corner, w=3, h=2
     """
+    s_cor_pat = ['|x_']
+    bs_cor_pat = ['|X_']
+    ss_cor_pat = ['^^|']
     cor_pat = ['|__', '__|', '|--', '--|']
     hor_pat = ['<->', '<--', '-->']
     ver_pat = ['v^v', '|^|', '|v|']
@@ -153,6 +158,18 @@ class ConnectionCell(Cell):
             self.width = longest_city + 4
             self.height = 5
             self._generate_corner(repr)
+        elif repr in self.s_cor_pat:
+            self.width = 3
+            self.height = 5
+            self._generate_short_corner(repr)
+        elif repr in self.ss_cor_pat:
+            self.width = 3
+            self.height = 2
+            self._generate_shortest_corner(repr)
+        elif repr in self.bs_cor_pat:
+            self.width = longest_city + 4
+            self.height = 2
+            self._generate_big_short_corner(repr)
         else:
             raise ValueError(f'Unknown representation: {repr}')
 
@@ -239,11 +256,41 @@ class ConnectionCell(Cell):
             else:
                 self.ctn.append(f'{ls}{ln[i]}{rs}')
 
+    def _generate_short_corner(self, repr: str):
+        if repr == '|x_':
+            self.ctn.append(' | ')
+            self.ctn.append(' | ')
+            self.ctn.append(' \-')
+            self.ctn.append('   ')
+            self.ctn.append('   ')
+
+    def _generate_shortest_corner(self, repr: str):
+        if repr == '^^|':
+            self.ctn.append('   ')
+            self.ctn.append('-\ ')
+
+    def _generate_big_short_corner(self, repr: str):
+        # todo
+        n = self.width - 3
+        l = n // 2
+        r = n - l
+        ls = ' ' * l
+        rs = ' ' * r
+        lp = '-' * l
+        rp = '-' * r
+        ln = []
+
+        if repr == '|X_':
+            self.ctn.append(f'{ls} ▲ {rs}')
+            self.ctn.append(f'{ls} \-{rp}')
+
 
 _blank_repr = ['...', '___', 'xxx']
 _conn_repr = (
     ConnectionCell.cor_pat + ConnectionCell.hor_pat +
-    ConnectionCell.ver_pat + ['---']
+    ConnectionCell.s_cor_pat + ConnectionCell.ver_pat +
+    ConnectionCell.ss_cor_pat + ConnectionCell.bs_cor_pat +
+    ['---']
 )
 def get_cell_class(repr, longest_city) -> str:
     if repr in _blank_repr:

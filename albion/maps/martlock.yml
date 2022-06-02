@@ -20,13 +20,16 @@ info:
     '|^|': Up Ver. connection, w=longest_city + 4, h=2
     '|v|': Down Ver. connection, w=longest_city + 4, h=2
     '|__': Left-Down Corner, w=longest_city + 4, h=5
+    '|x_': Short Left-Down Corner, w=3, h=5
+    '|X_': Big Short Left-Down Corner, w=longest_city + 4, h=2
     '__|': Right-Down Corner, w=longest_city + 4, h=5
     '|--': Left-Up Corner, w=longest_city + 4, h=5
     '--|': Right-Up Corner, w=longest_city + 4, h=5
+    '^^|': Shortest Right-Up Corner, w=3, h=2
 layout:
-  - "WwM,<->,WlB,<->,BsF,<--,---,-->,RnS"
-  - "v^v,...,v^v,...,___,...,___,...,v^v"
-  - "BpM,<->,LdH,<->,EdH,<->,GtH,xxx,GrF"
+  - "WwM,<->,WlB,<->,BsF,<->,RnS,<->,Mdl"
+  - "v^v,...,v^v,...,___,...,|X_,^^|,___"
+  - "BpM,<->,LdH,<->,EdH,<->,GtH,|x_,GrF"
   - "v^v,...,v^v,...,v^v,...,v^v,...,v^v"
   - "ClF,<->,Htr,<->,Mlk,<->,BtQ,<->,ArH"
   - "v^v,...,v^v,...,v^v,...,v^v,...,v^v"
@@ -38,6 +41,7 @@ cities:
   WlB: Wanderlure Basin, 5, Y, wsc
   BsF: Bowscale Fell, 6, R, wro
   RnS: Runnel Sink, 7, R, wro
+  Mdl: Mardale, 6, R, wro
 
   BpM: Bonepool Marsh, 5, Y, wsc
   LdH: Lewsdon Hill, 5, Y, wro

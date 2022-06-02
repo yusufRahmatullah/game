@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from map import Map
+from model import Map
 
 
 def parse_args():
