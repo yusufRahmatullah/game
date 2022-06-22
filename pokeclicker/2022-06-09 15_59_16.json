@@ -1,0 +1,3921 @@
+{
+  "player": {
+    "_timeTraveller": false,
+    "effectList": {},
+    "_lastSeen": 1654790349375,
+    "_region": 0,
+    "_subregion": 0,
+    "_route": 7,
+    "_townName": "Lavender Town",
+    "starter": 1,
+    "regionStarters": [
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "_itemList": {
+      "xAttack": 15,
+      "xClick": 25,
+      "Item_magnet": 5,
+      "Lucky_incense": 10
+    },
+    "_itemMultipliers": {},
+    "mineInventory": [
+      {
+        "name": "Helix Fossil",
+        "amount": 0,
+        "id": 200,
+        "value": 0,
+        "valueType": "Mine Egg",
+        "sellLocked": false
+      }
+    ],
+    "highestRegion": 0,
+    "highestSubRegion": 0,
+    "_origins": [
+      "https://www.pokeclicker.com"
+    ]
+  },
+  "save": {
+    "update": {
+      "version": "0.9.5"
+    },
+    "profile": {
+      "name": "Trainer",
+      "trainer": 69,
+      "pokemon": 4,
+      "pokemonShiny": false,
+      "background": 5,
+      "textColor": "#f5f5f5"
+    },
+    "breeding": {
+      "eggList": [
+        {
+          "totalSteps": 0,
+          "steps": 0,
+          "shinyChance": 1024,
+          "pokemon": "MissingNo.",
+          "type": -1,
+          "notified": false
+        },
+        {
+          "totalSteps": 0,
+          "steps": 0,
+          "shinyChance": 1024,
+          "pokemon": "MissingNo.",
+          "type": -1,
+          "notified": false
+        },
+        {
+          "totalSteps": 0,
+          "steps": 0,
+          "shinyChance": 1024,
+          "pokemon": "MissingNo.",
+          "type": -1,
+          "notified": false
+        },
+        {
+          "totalSteps": 0,
+          "steps": 0,
+          "shinyChance": 1024,
+          "pokemon": "MissingNo.",
+          "type": -1,
+          "notified": false
+        }
+      ],
+      "eggSlots": 1,
+      "queueList": [],
+      "queueSlots": 0,
+      "hatcheryHelpers": []
+    },
+    "pokeballs": {
+      "pokeballs": [
+        160,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "notCaughtSelection": 0,
+      "notCaughtShinySelection": 0,
+      "alreadyCaughtSelection": -1,
+      "alreadyCaughtShinySelection": 0
+    },
+    "wallet": {
+      "currencies": [
+        42333,
+        621,
+        1302,
+        0,
+        0,
+        0
+      ]
+    },
+    "keyItems": {
+      "Teachy_tv": true,
+      "Coin_case": true,
+      "Pokeball_bag": true,
+      "Town_map": true,
+      "Factory_key": false,
+      "Dungeon_ticket": true,
+      "Super_rod": false,
+      "Holo_caster": false,
+      "Mystery_egg": true,
+      "Safari_ticket": false,
+      "Wailmer_pail": false,
+      "Explorer_kit": false,
+      "Event_calendar": false,
+      "Gem_case": false,
+      "DNA_splicers": false
+    },
+    "badgeCase": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "oakItems": {
+      "Magic_Ball": {
+        "level": 0,
+        "exp": 96,
+        "isActive": false
+      },
+      "Amulet_Coin": {
+        "level": 0,
+        "exp": 66,
+        "isActive": true
+      },
+      "Poison_Barb": {
+        "level": 0,
+        "exp": 500,
+        "isActive": true
+      },
+      "Exp_Share": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false
+      },
+      "Sprayduck": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false
+      },
+      "Shiny_Charm": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false
+      },
+      "Blaze_Cassette": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false
+      },
+      "Cell_Battery": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false
+      },
+      "Squirtbottle": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false,
+        "purchased": false
+      },
+      "Sprinklotad": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false,
+        "purchased": false
+      },
+      "Explosive_Charge": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false,
+        "purchased": false
+      },
+      "Treasure_Scanner": {
+        "level": 0,
+        "exp": 0,
+        "isActive": false,
+        "purchased": false
+      }
+    },
+    "oakItemLoadouts": [
+      [],
+      [],
+      []
+    ],
+    "categories": {
+      "categories": [
+        {
+          "name": "None",
+          "color": "#333"
+        },
+        {
+          "name": "Favorite",
+          "color": "#e74c3c"
+        }
+      ]
+    },
+    "party": {
+      "caughtPokemon": [
+        {
+          "3": 117494,
+          "7": true,
+          "id": 4
+        },
+        {
+          "3": 117483,
+          "7": true,
+          "id": 16
+        },
+        {
+          "3": 124579,
+          "7": true,
+          "id": 19
+        },
+        {
+          "3": 117365,
+          "7": true,
+          "id": 29
+        },
+        {
+          "3": 117506,
+          "7": true,
+          "id": 32
+        },
+        {
+          "3": 123352,
+          "7": true,
+          "id": 21
+        },
+        {
+          "3": 123158,
+          "7": true,
+          "id": 10
+        },
+        {
+          "3": 123010,
+          "id": 25
+        },
+        {
+          "3": 122858,
+          "7": true,
+          "id": 11
+        },
+        {
+          "3": 122478,
+          "7": true,
+          "id": 27
+        },
+        {
+          "3": 122423,
+          "7": true,
+          "id": 56
+        },
+        {
+          "3": 117511,
+          "7": true,
+          "id": 5
+        },
+        {
+          "3": 121957,
+          "id": 12
+        },
+        {
+          "3": 121791,
+          "7": true,
+          "id": 41
+        },
+        {
+          "3": 121727,
+          "7": true,
+          "id": 46
+        },
+        {
+          "3": 117428,
+          "7": true,
+          "id": 74
+        },
+        {
+          "3": 117372,
+          "id": 30
+        },
+        {
+          "3": 117598,
+          "id": 33
+        },
+        {
+          "3": 117447,
+          "7": true,
+          "id": 17
+        },
+        {
+          "3": 116630,
+          "id": 20
+        },
+        {
+          "3": 115418,
+          "id": 22
+        },
+        {
+          "3": 111841,
+          "id": 28
+        },
+        {
+          "3": 111145,
+          "id": 42
+        },
+        {
+          "3": 109942,
+          "id": 75
+        },
+        {
+          "3": 107941,
+          "id": 47
+        },
+        {
+          "3": 100576,
+          "id": 57
+        },
+        {
+          "3": 82320,
+          "id": 6
+        },
+        {
+          "3": 81952,
+          "7": true,
+          "id": 48
+        },
+        {
+          "3": 80971,
+          "id": 18
+        },
+        {
+          "3": 74109,
+          "7": true,
+          "id": 69
+        },
+        {
+          "3": 72739,
+          "7": true,
+          "id": 43
+        },
+        {
+          "3": 71953,
+          "id": 39
+        },
+        {
+          "3": 70928,
+          "7": true,
+          "id": 52
+        },
+        {
+          "3": 70718,
+          "7": true,
+          "id": 13
+        },
+        {
+          "3": 70394,
+          "7": true,
+          "id": 14
+        },
+        {
+          "3": 69448,
+          "id": 15
+        },
+        {
+          "3": 68708,
+          "id": 35
+        },
+        {
+          "3": 67679,
+          "id": 70
+        },
+        {
+          "3": 66857,
+          "7": true,
+          "id": 63
+        },
+        {
+          "3": 66304,
+          "id": 44
+        },
+        {
+          "3": 64357,
+          "id": 64
+        },
+        {
+          "3": 57007,
+          "7": true,
+          "id": 23
+        },
+        {
+          "3": 52792,
+          "7": true,
+          "id": 96
+        },
+        {
+          "3": 52296,
+          "id": 49
+        },
+        {
+          "3": 49028,
+          "id": 53
+        },
+        {
+          "3": 46520,
+          "id": 24
+        },
+        {
+          "3": 40584,
+          "7": true,
+          "id": 50
+        },
+        {
+          "3": 37565,
+          "id": 138
+        },
+        {
+          "3": 35333,
+          "id": 97
+        },
+        {
+          "3": 23036,
+          "id": 51
+        },
+        {
+          "3": 16411,
+          "id": 66
+        },
+        {
+          "3": 10852,
+          "id": 81
+        },
+        {
+          "3": 1036,
+          "id": 37
+        }
+      ]
+    },
+    "gems": {
+      "gemWallet": [],
+      "gemUpgrades": [],
+      "gemCollapsed": []
+    },
+    "underground": {
+      "upgrades": {
+        "Energy_Max": 0,
+        "Items_Max": 0,
+        "Items_Min": 0,
+        "Energy_Gain": 0,
+        "Energy_Regen_Time": 0,
+        "Daily_Deals_Max": 0,
+        "Bomb_Efficiency": 0,
+        "Survey_Cost": 0,
+        "Survey_Efficiency": 0,
+        "NewYLayer": 0
+      },
+      "energy": 50,
+      "mine": {
+        "grid": [
+          [
+            3,
+            2,
+            4,
+            3,
+            1,
+            2,
+            2,
+            5,
+            3,
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            4,
+            1,
+            2,
+            4,
+            2,
+            2,
+            5,
+            5,
+            4
+          ],
+          [
+            4,
+            3,
+            4,
+            4,
+            4,
+            2,
+            3,
+            3,
+            3,
+            2,
+            4,
+            3,
+            2,
+            3,
+            2,
+            3,
+            1,
+            3,
+            3,
+            4,
+            1,
+            5,
+            4,
+            2,
+            2
+          ],
+          [
+            2,
+            2,
+            2,
+            4,
+            5,
+            2,
+            5,
+            4,
+            4,
+            4,
+            4,
+            4,
+            2,
+            4,
+            5,
+            3,
+            3,
+            1,
+            5,
+            1,
+            2,
+            4,
+            4,
+            2,
+            4
+          ],
+          [
+            3,
+            3,
+            4,
+            3,
+            3,
+            2,
+            4,
+            2,
+            4,
+            4,
+            2,
+            4,
+            3,
+            4,
+            4,
+            3,
+            2,
+            3,
+            4,
+            2,
+            2,
+            2,
+            3,
+            4,
+            3
+          ],
+          [
+            4,
+            3,
+            4,
+            3,
+            4,
+            3,
+            4,
+            2,
+            3,
+            3,
+            3,
+            3,
+            1,
+            2,
+            3,
+            3,
+            3,
+            2,
+            3,
+            5,
+            2,
+            4,
+            3,
+            2,
+            4
+          ],
+          [
+            5,
+            3,
+            2,
+            4,
+            3,
+            3,
+            3,
+            1,
+            1,
+            3,
+            2,
+            1,
+            3,
+            3,
+            4,
+            3,
+            4,
+            5,
+            4,
+            2,
+            2,
+            3,
+            2,
+            1,
+            4
+          ],
+          [
+            3,
+            4,
+            3,
+            3,
+            4,
+            1,
+            2,
+            3,
+            4,
+            2,
+            4,
+            4,
+            3,
+            4,
+            4,
+            4,
+            3,
+            4,
+            3,
+            5,
+            2,
+            4,
+            3,
+            3,
+            3
+          ],
+          [
+            4,
+            2,
+            5,
+            4,
+            3,
+            1,
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            3,
+            4,
+            3,
+            3,
+            1,
+            4,
+            2,
+            3,
+            2,
+            2,
+            3,
+            1,
+            3
+          ],
+          [
+            3,
+            4,
+            4,
+            2,
+            3,
+            4,
+            3,
+            3,
+            1,
+            4,
+            4,
+            3,
+            3,
+            4,
+            1,
+            4,
+            4,
+            3,
+            2,
+            3,
+            3,
+            3,
+            5,
+            3,
+            2
+          ],
+          [
+            5,
+            3,
+            4,
+            5,
+            2,
+            5,
+            3,
+            2,
+            4,
+            2,
+            3,
+            3,
+            2,
+            4,
+            3,
+            3,
+            4,
+            3,
+            2,
+            4,
+            4,
+            3,
+            4,
+            2,
+            2
+          ],
+          [
+            3,
+            3,
+            2,
+            2,
+            2,
+            2,
+            5,
+            2,
+            3,
+            2,
+            1,
+            3,
+            3,
+            4,
+            2,
+            4,
+            3,
+            2,
+            4,
+            3,
+            3,
+            2,
+            3,
+            2,
+            3
+          ],
+          [
+            5,
+            4,
+            4,
+            3,
+            4,
+            4,
+            3,
+            2,
+            3,
+            1,
+            2,
+            4,
+            2,
+            4,
+            2,
+            5,
+            5,
+            3,
+            4,
+            3,
+            3,
+            3,
+            4,
+            2,
+            3
+          ]
+        ],
+        "rewardGrid": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 2,
+              "y": 2,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 1,
+              "y": 2,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 0,
+              "y": 2,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 2,
+              "y": 1,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 1,
+              "y": 1,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 0,
+              "y": 1,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 2,
+              "y": 0,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 1,
+              "y": 0,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            {
+              "sizeX": 3,
+              "sizeY": 3,
+              "x": 0,
+              "y": 0,
+              "value": 4,
+              "rotations": 3,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 0,
+              "y": 2,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 0,
+              "y": 1,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 0,
+              "y": 0,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 1,
+              "y": 2,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 1,
+              "y": 1,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 1,
+              "y": 0,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 2,
+              "y": 2,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 2,
+              "y": 1,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 2,
+              "y": 0,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 3,
+              "y": 2,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 3,
+              "y": 1,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            {
+              "sizeX": 4,
+              "sizeY": 3,
+              "x": 3,
+              "y": 0,
+              "value": 110,
+              "rotations": 1,
+              "revealed": 0
+            },
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "itemsFound": 0,
+        "itemsBuried": 2,
+        "rewardNumbers": [
+          110,
+          4
+        ],
+        "surveyResult": null,
+        "skipsRemaining": 5
+      }
+    },
+    "farming": {
+      "berryList": [
+        7,
+        5,
+        6,
+        1,
+        4,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "unlockedBerries": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mulchList": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "plotList": [
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": true,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        },
+        {
+          "isUnlocked": false,
+          "berry": -1,
+          "lastPlanted": -1,
+          "age": 0,
+          "mulch": -1,
+          "mulchTimeLeft": 0
+        }
+      ],
+      "shovelAmt": 0,
+      "mulchShovelAmt": 0,
+      "mutations": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        [
+          false,
+          false,
+          false,
+          false
+        ],
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "farmHands": []
+    },
+    "logbook": {
+      "logs": [
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Vulpix!",
+          "date": 1654790323760
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 7] You encountered a wild Vulpix.",
+          "date": 1654790320878
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Need a new mouse yet?\".",
+          "date": 1654790309818
+        },
+        {
+          "type": {
+            "display": "info",
+            "label": "QUEST"
+          },
+          "description": "Completed \"Gain 38,989 Pok\u00e9Dollars.\" for 70 quest points.",
+          "date": 1654790139808
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Magnemite!",
+          "date": 1654790112236
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 10] You encountered a wild Magnemite.",
+          "date": 1654790109929
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Magnemite escaped!",
+          "date": 1654790103327
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 10] You encountered a wild Magnemite.",
+          "date": 1654790101034
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Magnemite escaped!",
+          "date": 1654790092425
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 10] You encountered a wild Magnemite.",
+          "date": 1654790089726
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Magnemite escaped!",
+          "date": 1654790083477
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 10] You encountered a wild Magnemite.",
+          "date": 1654790079295
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Onix escaped!",
+          "date": 1654790056258
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Rock Tunnel] You encountered a wild Onix.",
+          "date": 1654790047031
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Onix escaped!",
+          "date": 1654790015877
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Rock Tunnel] You encountered a wild Onix.",
+          "date": 1654790006598
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Machop!",
+          "date": 1654790005881
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Rock Tunnel] You encountered a wild Machop.",
+          "date": 1654790002840
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Machop escaped!",
+          "date": 1654789982650
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Rock Tunnel] You encountered a wild Machop.",
+          "date": 1654789980473
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Onix escaped!",
+          "date": 1654789970231
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Rock Tunnel] You encountered a wild Onix.",
+          "date": 1654789960624
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"First Team\".",
+          "date": 1654789922188
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Wonderful! Do you like to collect things?\".",
+          "date": 1654789906184
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Dugtrio!",
+          "date": 1654789905506
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Kanto Route 11 traveler\".",
+          "date": 1654789871183
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Token Collector\".",
+          "date": 1654789800174
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Hypno!",
+          "date": 1654789775432
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Pok\u00e9mon Nursery\".",
+          "date": 1654789750376
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured an Omanyte!",
+          "date": 1654789749870
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Dugtrio escaped!",
+          "date": 1654789720796
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Dugtrio.",
+          "date": 1654789716609
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Dugtrio escaped!",
+          "date": 1654789696906
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Dugtrio.",
+          "date": 1654789692710
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Dugtrio escaped!",
+          "date": 1654789670793
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Dugtrio.",
+          "date": 1654789667601
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Diglett!",
+          "date": 1654789664081
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Diglett.",
+          "date": 1654789662417
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Improving\".",
+          "date": 1654789638842
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured an Arbok!",
+          "date": 1654789544340
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Persian!",
+          "date": 1654789505440
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Venomoth!",
+          "date": 1654789490113
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Drowzee!",
+          "date": 1654789486666
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 11] You encountered a wild Drowzee.",
+          "date": 1654789484313
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured an Ekans!",
+          "date": 1654789436427
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 4] You encountered a wild Ekans.",
+          "date": 1654789434163
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 4] You encountered a wild Ekans.",
+          "date": 1654789341011
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Highway to Pallet Town\".",
+          "date": 1654789324554
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Kadabra!",
+          "date": 1654789298735
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Gloom!",
+          "date": 1654789277115
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured an Abra!",
+          "date": 1654789272460
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 5] You encountered a wild Abra.",
+          "date": 1654789268406
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Weepinbell!",
+          "date": 1654789240998
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Clefairy!",
+          "date": 1654789188064
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Mt. Moon] You encountered a wild Clefairy.",
+          "date": 1654789186268
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Clefairy escaped!",
+          "date": 1654789185789
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Mt. Moon] You encountered a wild Clefairy.",
+          "date": 1654789184092
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Beedrill!",
+          "date": 1654789176863
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Clefairy escaped!",
+          "date": 1654789172729
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Mt. Moon] You encountered a wild Clefairy.",
+          "date": 1654789170823
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Kakuna!",
+          "date": 1654789146421
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Kakuna escaped!",
+          "date": 1654789134879
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Viridian Forest] You encountered a wild Kakuna.",
+          "date": 1654789133554
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Weedle!",
+          "date": 1654789133209
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Viridian Forest] You encountered a wild Weedle.",
+          "date": 1654789131924
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 5] You encountered a wild Abra.",
+          "date": 1654789127263
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Meowth!",
+          "date": 1654789119901
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 5] You encountered a wild Meowth.",
+          "date": 1654789115654
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Jigglypuff!",
+          "date": 1654789107077
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 5] You encountered a wild Jigglypuff.",
+          "date": 1654789103936
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured an Oddish!",
+          "date": 1654789096354
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654789094140
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Oddish escaped!",
+          "date": 1654789088398
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654789086226
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Bellsprout!",
+          "date": 1654789078416
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Bellsprout.",
+          "date": 1654789076176
+        },
+        {
+          "type": {
+            "display": "danger",
+            "label": "ESCAPED"
+          },
+          "description": "The wild Oddish escaped!",
+          "date": 1654789075235
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654789073018
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Pidgeot!",
+          "date": 1654789001899
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Venonat!",
+          "date": 1654788972892
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Venonat.",
+          "date": 1654788970083
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Stocking Up\".",
+          "date": 1654788965340
+        },
+        {
+          "type": {
+            "display": "info",
+            "label": "QUEST"
+          },
+          "description": "Completed \"Defeat Pewter City gym in Kanto 13 times.\" for 451 quest points.",
+          "date": 1654788946824
+        },
+        {
+          "type": {
+            "display": "success",
+            "label": "CAUGHT"
+          },
+          "description": "You have captured a Charizard!",
+          "date": 1654788945513
+        },
+        {
+          "type": {
+            "display": "warning",
+            "label": "ACHIEVE"
+          },
+          "description": "Earned \"Pewter City Gym regular\".",
+          "date": 1654788937256
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Venonat.",
+          "date": 1654788890039
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Bellsprout.",
+          "date": 1654788887029
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Bellsprout.",
+          "date": 1654788884029
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Bellsprout.",
+          "date": 1654788880697
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Venonat.",
+          "date": 1654788877042
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654788874043
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654788870384
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654788859161
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654788857161
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Kanto Route 25] You encountered a wild Oddish.",
+          "date": 1654788854544
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Dugtrio.",
+          "date": 1654788780001
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Diglett.",
+          "date": 1654788778293
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Diglett.",
+          "date": 1654788776636
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Diglett.",
+          "date": 1654788775087
+        },
+        {
+          "type": {
+            "display": "primary",
+            "label": "NEW"
+          },
+          "description": "[Digletts Cave] You encountered a wild Diglett.",
+          "date": 1654788773415
+        }
+      ],
+      "filters": {
+        "NEW": true,
+        "SHINY": true,
+        "CAUGHT": true,
+        "ESCAPED": true,
+        "FOUND": true,
+        "ACHIEVE": true,
+        "QUEST": true,
+        "WANDER": true,
+        "OTHER": true
+      }
+    },
+    "redeemableCodes": [],
+    "statistics": {
+      "secondsPlayed": 2387,
+      "clickAttacks": 10143,
+      "questsCompleted": 9,
+      "totalGemsGained": 0,
+      "totalProteinsObtained": 0,
+      "totalMoney": 73533,
+      "totalDungeonTokens": 3952,
+      "totalQuestPoints": 721,
+      "totalDiamonds": 0,
+      "totalFarmPoints": 0,
+      "totalBattlePoints": 0,
+      "totalPokemonCaptured": 128,
+      "totalPokemonDefeated": 1501,
+      "totalPokemonEncountered": 1496,
+      "totalPokemonHatched": 1,
+      "totalShinyPokemonCaptured": 0,
+      "totalShinyPokemonDefeated": 0,
+      "totalShinyPokemonEncountered": 0,
+      "totalShinyPokemonHatched": 0,
+      "undergroundItemsFound": 0,
+      "undergroundLayersMined": 0,
+      "undergroundDailyDealTrades": 0,
+      "totalManualHarvests": 0,
+      "totalBerriesHarvested": 0,
+      "totalBerriesObtained": 29,
+      "totalBerriesReplanted": 0,
+      "totalBerriesMutated": 0,
+      "totalMulchesUsed": 0,
+      "totalShovelsUsed": 0,
+      "berryDailyDealTrades": 0,
+      "battleFrontierTotalStagesCompleted": 0,
+      "battleFrontierHighestStageCompleted": 0,
+      "gymsDefeated": [
+        15,
+        1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dungeonsCleared": [
+        8,
+        3,
+        5,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0
+      ],
+      "pokeballsUsed": [
+        178,
+        0
+      ],
+      "pokeballsBought": [
+        312
+      ],
+      "pokeballsObtained": [
+        313,
+        0,
+        0,
+        0
+      ],
+      "gemsGained": [],
+      "oakItemUses": [
+        48,
+        66,
+        910
+      ],
+      "berriesHarvested": [
+        0
+      ],
+      "berriesObtained": [
+        7,
+        5,
+        6,
+        1,
+        4,
+        6
+      ],
+      "mulchesUsed": [],
+      "temporaryBattleDefeated": [
+        0
+      ],
+      "pokemonCaptured": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 3,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 9,
+        "17": 9,
+        "18": 1,
+        "19": 21,
+        "20": 9,
+        "21": 7,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 4,
+        "26": 0,
+        "27": 2,
+        "28": 1,
+        "29": 3,
+        "30": 1,
+        "31": 0,
+        "32": 5,
+        "33": 1,
+        "34": 0,
+        "35": 1,
+        "36": 0,
+        "37": 1,
+        "38": 0,
+        "39": 2,
+        "40": 0,
+        "41": 2,
+        "42": 1,
+        "43": 1,
+        "44": 1,
+        "45": 0,
+        "46": 1,
+        "47": 1,
+        "48": 1,
+        "49": 1,
+        "50": 1,
+        "51": 1,
+        "52": 4,
+        "53": 1,
+        "54": 0,
+        "55": 0,
+        "56": 2,
+        "57": 1,
+        "58": 0,
+        "59": 0,
+        "60": 0,
+        "61": 0,
+        "62": 0,
+        "63": 2,
+        "64": 2,
+        "65": 0,
+        "66": 1,
+        "67": 0,
+        "68": 0,
+        "69": 1,
+        "70": 1,
+        "71": 0,
+        "72": 0,
+        "73": 0,
+        "74": 2,
+        "75": 1,
+        "76": 0,
+        "77": 0,
+        "78": 0,
+        "79": 0,
+        "80": 0,
+        "81": 1,
+        "82": 0,
+        "83": 0,
+        "84": 0,
+        "85": 0,
+        "86": 0,
+        "87": 0,
+        "89": 0,
+        "90": 0,
+        "91": 0,
+        "92": 0,
+        "93": 0,
+        "94": 0,
+        "96": 5,
+        "97": 1,
+        "98": 0,
+        "99": 0,
+        "101": 0,
+        "102": 0,
+        "103": 0,
+        "104": 0,
+        "105": 0,
+        "106": 0,
+        "107": 0,
+        "108": 0,
+        "110": 0,
+        "111": 0,
+        "112": 0,
+        "113": 0,
+        "114": 0,
+        "115": 0,
+        "116": 0,
+        "117": 0,
+        "118": 0,
+        "119": 0,
+        "122": 0,
+        "123": 0,
+        "124": 0,
+        "125": 0,
+        "126": 0,
+        "127": 0,
+        "128": 0,
+        "129": 0,
+        "130": 0,
+        "131": 0,
+        "132": 0,
+        "133": 0,
+        "134": 0,
+        "135": 0,
+        "136": 0,
+        "137": 0,
+        "138": 1,
+        "647": 0,
+        "648": 0,
+        "666.09": 0,
+        "666.08": 0,
+        "666.18": 0,
+        "666.14": 0,
+        "666.03": 0,
+        "666.16": 0,
+        "666.1": 0,
+        "666.06": 0,
+        "666.17": 0,
+        "666.04": 0,
+        "666.13": 0,
+        "666.02": 0,
+        "666.12": 0,
+        "666.05": 0,
+        "666.11": 0,
+        "666.15": 0,
+        "666.07": 0,
+        "666.01": 0
+      },
+      "pokemonDefeated": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 14,
+        "11": 6,
+        "12": 0,
+        "13": 14,
+        "14": 4,
+        "15": 0,
+        "16": 195,
+        "17": 75,
+        "18": 0,
+        "19": 299,
+        "20": 44,
+        "21": 98,
+        "22": 2,
+        "23": 13,
+        "24": 0,
+        "25": 4,
+        "26": 3,
+        "27": 51,
+        "28": 0,
+        "29": 140,
+        "30": 1,
+        "31": 0,
+        "32": 154,
+        "33": 3,
+        "34": 0,
+        "35": 5,
+        "36": 0,
+        "37": 2,
+        "38": 0,
+        "39": 16,
+        "40": 0,
+        "41": 12,
+        "42": 0,
+        "43": 24,
+        "44": 0,
+        "45": 0,
+        "46": 5,
+        "47": 0,
+        "48": 14,
+        "49": 0,
+        "50": 46,
+        "51": 5,
+        "52": 17,
+        "53": 0,
+        "54": 0,
+        "55": 0,
+        "56": 104,
+        "57": 0,
+        "58": 0,
+        "59": 0,
+        "60": 0,
+        "61": 0,
+        "62": 0,
+        "63": 14,
+        "64": 1,
+        "65": 0,
+        "66": 6,
+        "67": 0,
+        "68": 0,
+        "69": 13,
+        "70": 0,
+        "71": 0,
+        "72": 0,
+        "73": 0,
+        "74": 35,
+        "75": 1,
+        "76": 0,
+        "77": 0,
+        "78": 0,
+        "79": 0,
+        "80": 0,
+        "81": 9,
+        "82": 0,
+        "83": 0,
+        "84": 0,
+        "85": 0,
+        "86": 0,
+        "87": 0,
+        "88": 3,
+        "89": 0,
+        "90": 0,
+        "91": 0,
+        "92": 0,
+        "93": 0,
+        "94": 0,
+        "95": 18,
+        "96": 21,
+        "97": 0,
+        "98": 0,
+        "99": 0,
+        "100": 4,
+        "101": 0,
+        "102": 0,
+        "103": 0,
+        "104": 0,
+        "105": 0,
+        "106": 0,
+        "107": 0,
+        "108": 0,
+        "109": 3,
+        "110": 0,
+        "111": 0,
+        "112": 0,
+        "113": 0,
+        "114": 0,
+        "115": 0,
+        "116": 0,
+        "117": 0,
+        "118": 0,
+        "119": 0,
+        "120": 1,
+        "121": 1,
+        "122": 0,
+        "123": 0,
+        "124": 0,
+        "125": 0,
+        "126": 0,
+        "127": 0,
+        "128": 0,
+        "129": 0,
+        "130": 0,
+        "131": 0,
+        "132": 0,
+        "133": 0,
+        "134": 0,
+        "135": 0,
+        "136": 0,
+        "137": 0,
+        "175.2": 0
+      },
+      "pokemonEncountered": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 7,
+        "11": 2,
+        "12": 0,
+        "13": 3,
+        "14": 2,
+        "15": 0,
+        "16": 203,
+        "17": 79,
+        "18": 0,
+        "19": 316,
+        "20": 47,
+        "21": 103,
+        "22": 2,
+        "23": 14,
+        "24": 0,
+        "25": 4,
+        "26": 0,
+        "27": 53,
+        "28": 0,
+        "29": 146,
+        "30": 4,
+        "31": 0,
+        "32": 158,
+        "33": 4,
+        "34": 0,
+        "35": 3,
+        "36": 0,
+        "37": 2,
+        "38": 0,
+        "39": 17,
+        "40": 0,
+        "41": 10,
+        "42": 0,
+        "43": 24,
+        "44": 0,
+        "45": 0,
+        "46": 5,
+        "47": 0,
+        "48": 20,
+        "49": 0,
+        "50": 46,
+        "51": 5,
+        "52": 19,
+        "53": 0,
+        "54": 0,
+        "55": 0,
+        "56": 107,
+        "57": 0,
+        "58": 0,
+        "59": 0,
+        "60": 0,
+        "61": 0,
+        "62": 0,
+        "63": 17,
+        "64": 1,
+        "65": 0,
+        "66": 7,
+        "67": 0,
+        "68": 0,
+        "69": 13,
+        "70": 0,
+        "71": 0,
+        "72": 0,
+        "73": 0,
+        "74": 18,
+        "75": 0,
+        "76": 0,
+        "77": 0,
+        "78": 0,
+        "79": 0,
+        "80": 0,
+        "81": 9,
+        "82": 0,
+        "83": 0,
+        "84": 0,
+        "85": 0,
+        "86": 0,
+        "87": 0,
+        "88": 0,
+        "89": 0,
+        "90": 0,
+        "91": 0,
+        "92": 0,
+        "93": 0,
+        "94": 0,
+        "95": 3,
+        "96": 23,
+        "97": 0,
+        "98": 0,
+        "99": 0,
+        "100": 0,
+        "101": 0,
+        "102": 0,
+        "103": 0,
+        "104": 0,
+        "105": 0,
+        "106": 0,
+        "107": 0,
+        "108": 0,
+        "109": 0,
+        "110": 0,
+        "111": 0,
+        "112": 0,
+        "113": 0,
+        "114": 0,
+        "115": 0,
+        "116": 0,
+        "117": 0,
+        "118": 0,
+        "119": 0,
+        "120": 0,
+        "121": 0,
+        "122": 0,
+        "123": 0,
+        "124": 0,
+        "125": 0,
+        "126": 0,
+        "127": 0,
+        "128": 0,
+        "129": 0,
+        "130": 0,
+        "131": 0,
+        "132": 0,
+        "133": 0,
+        "134": 0,
+        "135": 0,
+        "136": 0,
+        "137": 0
+      },
+      "pokemonHatched": {
+        "1": 0,
+        "23": 0,
+        "26": 0,
+        "138": 1
+      },
+      "shinyPokemonCaptured": {
+        "1": 0,
+        "23": 0,
+        "26": 0
+      },
+      "shinyPokemonDefeated": {
+        "1": 0,
+        "23": 0,
+        "26": 0
+      },
+      "shinyPokemonEncountered": {
+        "1": 0,
+        "23": 0,
+        "26": 0
+      },
+      "shinyPokemonHatched": {
+        "1": 0,
+        "23": 0,
+        "26": 0
+      },
+      "routeKills": {
+        "kanto": {
+          "1": 148,
+          "2": 254,
+          "3": 91,
+          "4": 90,
+          "5": 36,
+          "6": 32,
+          "7": 17,
+          "8": 15,
+          "9": 18,
+          "10": 34,
+          "11": 129,
+          "12": 0,
+          "13": 0,
+          "14": 0,
+          "15": 0,
+          "16": 0,
+          "17": 0,
+          "18": 0,
+          "19": 0,
+          "20": 0,
+          "21": 0,
+          "22": 343,
+          "23": 0,
+          "24": 12,
+          "25": 65
+        },
+        "johto": {
+          "26": 0,
+          "27": 0,
+          "28": 0,
+          "29": 0,
+          "30": 0,
+          "31": 0,
+          "32": 0,
+          "33": 0,
+          "34": 0,
+          "35": 0,
+          "36": 0,
+          "37": 0,
+          "38": 0,
+          "39": 0,
+          "40": 0,
+          "41": 0,
+          "42": 0,
+          "43": 0,
+          "44": 0,
+          "45": 0,
+          "46": 0,
+          "47": 0,
+          "48": 0
+        },
+        "hoenn": {
+          "101": 0,
+          "102": 0,
+          "103": 0,
+          "104": 0,
+          "105": 0,
+          "106": 0,
+          "107": 0,
+          "108": 0,
+          "109": 0,
+          "110": 0,
+          "111": 0,
+          "112": 0,
+          "113": 0,
+          "114": 0,
+          "115": 0,
+          "116": 0,
+          "117": 0,
+          "118": 0,
+          "119": 0,
+          "120": 0,
+          "121": 0,
+          "122": 0,
+          "123": 0,
+          "124": 0,
+          "125": 0,
+          "126": 0,
+          "127": 0,
+          "128": 0,
+          "129": 0,
+          "130": 0,
+          "131": 0,
+          "132": 0,
+          "133": 0,
+          "134": 0
+        },
+        "sinnoh": {
+          "201": 0,
+          "202": 0,
+          "203": 0,
+          "204": 0,
+          "205": 0,
+          "206": 0,
+          "207": 0,
+          "208": 0,
+          "209": 0,
+          "210": 0,
+          "211": 0,
+          "212": 0,
+          "213": 0,
+          "214": 0,
+          "215": 0,
+          "216": 0,
+          "217": 0,
+          "218": 0,
+          "219": 0,
+          "220": 0,
+          "221": 0,
+          "222": 0,
+          "223": 0,
+          "224": 0,
+          "225": 0,
+          "226": 0,
+          "227": 0,
+          "228": 0,
+          "229": 0,
+          "230": 0
+        },
+        "unova": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "11": 0,
+          "12": 0,
+          "13": 0,
+          "14": 0,
+          "15": 0,
+          "16": 0,
+          "17": 0,
+          "18": 0,
+          "19": 0,
+          "20": 0,
+          "21": 0,
+          "22": 0,
+          "23": 0,
+          "24": 0,
+          "25": 0
+        },
+        "kalos": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0,
+          "11": 0,
+          "12": 0,
+          "13": 0,
+          "14": 0,
+          "15": 0,
+          "16": 0,
+          "17": 0,
+          "18": 0,
+          "19": 0,
+          "20": 0,
+          "21": 0,
+          "22": 0,
+          "23": 0
+        },
+        "alola": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0,
+          "11": 0,
+          "12": 0,
+          "13": 0,
+          "14": 0,
+          "15": 0,
+          "16": 0,
+          "17": 0,
+          "18": 0,
+          "19": 0,
+          "20": 0,
+          "21": 0,
+          "22": 0,
+          "23": 0,
+          "24": 0,
+          "25": 0,
+          "26": 0,
+          "27": 0,
+          "28": 0,
+          "29": 0,
+          "30": 0
+        },
+        "galar": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "10": 0,
+          "11": 0,
+          "12": 0,
+          "14": 0,
+          "15": 0,
+          "16": 0,
+          "17": 0,
+          "18": 0,
+          "20": 0,
+          "21": 0,
+          "22": 0,
+          "23": 0,
+          "24": 0,
+          "25": 0,
+          "26": 0,
+          "27": 0,
+          "28": 0,
+          "29": 0,
+          "30": 0,
+          "31": 0,
+          "32": 0,
+          "34": 0,
+          "35": 0,
+          "36": 0,
+          "37": 0,
+          "38": 0,
+          "39": 0,
+          "41": 0,
+          "42": 0,
+          "43": 0,
+          "45": 0,
+          "46": 0,
+          "47": 0,
+          "50": 0,
+          "51": 0,
+          "52": 0
+        },
+        "final": {},
+        "none": {}
+      }
+    },
+    "quests": {
+      "xp": 972,
+      "refreshes": 0,
+      "lastRefresh": "2022-06-09T15:18:46.667Z",
+      "lastRefreshLevel": 1,
+      "lastRefreshRegion": 0,
+      "freeRefresh": true,
+      "questList": [
+        {
+          "index": 0,
+          "data": [
+            1,
+            3189
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "CatchShiniesQuest"
+        },
+        {
+          "index": 1,
+          "data": [
+            102,
+            157,
+            0
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "CapturePokemonTypesQuest"
+        },
+        {
+          "index": 2,
+          "data": [
+            167,
+            619,
+            1
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "UsePokeballQuest"
+        },
+        {
+          "index": 3,
+          "data": [
+            13,
+            451,
+            "Pewter City"
+          ],
+          "initial": 1,
+          "claimed": true,
+          "notified": true,
+          "name": "DefeatGymQuest"
+        },
+        {
+          "index": 4,
+          "data": [
+            4825,
+            453
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "GainTokensQuest"
+        },
+        {
+          "index": 5,
+          "data": [
+            350,
+            1496,
+            1,
+            0
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "DefeatPokemonsQuest"
+        },
+        {
+          "index": 6,
+          "data": [
+            10,
+            2024,
+            "Viridian Forest"
+          ],
+          "initial": 4,
+          "claimed": false,
+          "notified": false,
+          "name": "DefeatDungeonQuest"
+        },
+        {
+          "index": 7,
+          "data": [
+            240,
+            333
+          ],
+          "initial": null,
+          "claimed": false,
+          "notified": false,
+          "name": "CapturePokemonsQuest"
+        },
+        {
+          "index": 8,
+          "data": [
+            38989,
+            70
+          ],
+          "initial": 26722,
+          "claimed": true,
+          "notified": true,
+          "name": "GainMoneyQuest"
+        }
+      ],
+      "questLines": [
+        {
+          "state": 2,
+          "name": "Tutorial Quests",
+          "quest": 7,
+          "initial": 0
+        },
+        {
+          "state": 0,
+          "name": "Mystery of Deoxys",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Mining Expedition",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "The Great Vivillon Hunt!",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Team Rocket Again",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Land vs Water",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Quest for the DNA Splicers",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Eater of Light",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "Togepi Egg Hunt",
+          "quest": 0
+        },
+        {
+          "state": 0,
+          "name": "A new world",
+          "quest": 0
+        }
+      ]
+    },
+    "events": {},
+    "discord": {
+      "ID": null,
+      "codes": []
+    },
+    "achievementTracker": {
+      "trackedAchievementName": null
+    },
+    "challenges": {
+      "list": {
+        "regionalAttackDebuff": true,
+        "requireCompletePokedex": true,
+        "disableClickAttack": false,
+        "disableBattleItems": false,
+        "disableMasterballs": false,
+        "disableOakItems": false,
+        "disableGems": false,
+        "disableProteins": false
+      }
+    },
+    "battleFrontier": {
+      "milestones": [],
+      "checkpoint": 1
+    }
+  },
+  "settings": {
+    "modules.left-column": "",
+    "modules.middle-top-sort-column": "",
+    "modules.middle-bottom-sort-column": "",
+    "modules.right-column": "",
+    "theme": "yeti",
+    "breedingDisplay": "percentage",
+    "shopButtons": "original",
+    "resetShopAmountOnPurchase": true,
+    "showCurrencyGainedAnimation": true,
+    "hideChallengeRelatedModules": false,
+    "backgroundImage": "background-day",
+    "eggAnimation": "full",
+    "hideHatchery": "queue",
+    "farmDisplay": "nextStage",
+    "currencyMainDisplayReduced": false,
+    "currencyMainDisplayExtended": false,
+    "showGymGoAnimation": true,
+    "--locked": "#000000",
+    "--currentPlace": "#55ff00",
+    "--incomplete": "#ff9100",
+    "--questAtLocation": "#34BF45",
+    "--uncaughtPokemon": "#3498db",
+    "--uncaughtShinyPokemonAndMissingAchievement": "#c939fe",
+    "--uncaughtShinyPokemon": "#ffee00",
+    "--missingAchievement": "#57e3ff",
+    "--completed": "#ffffff",
+    "disableAutoDownloadBackupSaveOnUpdate": false,
+    "useWebWorkerForGameTicks": true,
+    "sound.Shiny Pok\u00e9mon encountered/hatched": true,
+    "sound.New Pok\u00e9mon/shiny captured": true,
+    "sound.New achievement earned": true,
+    "sound.Battle item about to wear off": true,
+    "sound.Mining energy reached maximum capacity": true,
+    "sound.Egg ready to hatch": true,
+    "sound.Hatchery queue is empty": true,
+    "sound.Quest is ready to be completed": true,
+    "sound.Quest level increased": true,
+    "sound.Berry ready to harvest": true,
+    "sound.Berry about to wither/has withered": true,
+    "sound.Berry has mutated": true,
+    "sound.Berry has been replanted": true,
+    "sound.Berry has been dropped": true,
+    "sound.Mulch has run out": true,
+    "sound.Wandering Pok\u00e9mon encountered": true,
+    "sound.volume": 100,
+    "notification.encountered_shiny": true,
+    "notification.encountered_shiny.desktop": false,
+    "notification.quest_ready_to_complete": true,
+    "notification.quest_ready_to_complete.desktop": false,
+    "notification.underground_energy_full": true,
+    "notification.underground_energy_full.desktop": false,
+    "notification.underground_energy_restore": true,
+    "notification.underground_energy_restore.desktop": false,
+    "notification.event_start_end": true,
+    "notification.event_start_end.desktop": false,
+    "notification.gym_won": true,
+    "notification.gym_won.desktop": false,
+    "notification.offline_earnings": true,
+    "notification.offline_earnings.desktop": false,
+    "notification.achievement_complete.desktop": false,
+    "notification.new_catch.desktop": false,
+    "notification.battle_frontier.desktop": false,
+    "notification.ready_to_hatch": true,
+    "notification.ready_to_hatch.desktop": false,
+    "notification.hatched": true,
+    "notification.hatched.desktop": false,
+    "notification.hatched_shiny": true,
+    "notification.hatched_shiny.desktop": false,
+    "empty_queue": true,
+    "empty_queue.desktop": false,
+    "notification.route_item_found": true,
+    "notification.route_item_found.desktop": false,
+    "notification.dungeon_item_found": true,
+    "notification.dungeon_item_found.desktop": false,
+    "notification.battle_item_timer": true,
+    "notification.battle_item_timer.desktop": false,
+    "notification.dropped_item": true,
+    "notification.dropped_item.desktop": false,
+    "notification.ready_to_harvest": true,
+    "notification.ready_to_harvest.desktop": false,
+    "notification.about_to_wither": true,
+    "notification.about_to_wither.desktop": false,
+    "notification.berry_withered": true,
+    "notification.berry_withered.desktop": false,
+    "notification.berry_mutated": true,
+    "notification.berry_mutated.desktop": false,
+    "notification.berry_replanted": true,
+    "notification.berry_replanted.desktop": false,
+    "notification.berry_dropped": true,
+    "notification.berry_dropped.desktop": false,
+    "notification.mulch_ran_out": true,
+    "notification.mulch_ran_out.desktop": false,
+    "notification.wandering_pokemon": true,
+    "notification.wandering_pokemon.desktop": false,
+    "partySort": 3,
+    "partySortDirection": false,
+    "hatcherySort": 0,
+    "hatcherySortDirection": false,
+    "proteinSort": 0,
+    "proteinSortDirection": false,
+    "proteinHideMaxedPokemon": false,
+    "proteinHideShinyPokemon": false,
+    "breedingCategoryFilter": "-1",
+    "breedingRegionFilter": "-2",
+    "breedingTypeFilter1": "-2",
+    "breedingTypeFilter2": "-2",
+    "breedingShinyFilter": "-1",
+    "breedingDisplayFilter": "attack",
+    "achievementSort": 0,
+    "achievementSortDirection": false,
+    "achievementsPage": 0,
+    "achievementsStatus": "-2",
+    "achievementsType": "-2",
+    "achievementsRegion": "-2",
+    "sort.saveSelector": "",
+    "hotkey.farm": "F",
+    "hotkey.hatchery": "H",
+    "hotkey.oakItems": "O",
+    "hotkey.underground": "U",
+    "hotkey.pokeballSelection": "P",
+    "hotkey.farm.toggleShovel": "S",
+    "hotkey.underground.hammer": "H",
+    "hotkey.underground.chisel": "C",
+    "hotkey.underground.survey": "S",
+    "hotkey.underground.bomb": "B",
+    "hotkey.dungeon.up": "W",
+    "hotkey.dungeon.left": "A",
+    "hotkey.dungeon.down": "S",
+    "hotkey.dungeon.right": "D",
+    "hotkey.dungeon.interact": "Space",
+    "hotkey.town.start": "Space",
+    "hotkey.forceSave": "S",
+    "hotkey.shop.buy": "B",
+    "hotkey.shop.max": "M",
+    "hotkey.shop.reset": "R",
+    "hotkey.shop.increase": "I"
+  }
+}
